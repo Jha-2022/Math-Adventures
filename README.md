@@ -35,7 +35,9 @@ The goal of this project is to build a prototype that:
     └─ adaptive_engine.py  
 ```
 
-## Installtion Peocess
+## Installtion Peocess:
+### go through the given steps to install and use the above project: 
+
 ```
 cd Math-Adventures
 ```
@@ -52,7 +54,7 @@ venv\Scripts\activate
 ```
 source venv/bin/activate
 ```
-###Now the user can access the project writting this command in the terminal:-
+### Now the user can access the project writting this command in the terminal:-
 ```
 python src/main.py
 ```
