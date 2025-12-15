@@ -1,4 +1,7 @@
 
+# Math-Adventures
+
+## Directory Structure
 ```
 📂 Math-Adventures
   ├─ README.md               
@@ -10,7 +13,7 @@
     └─ adaptive_engine.py  
 ```
 
-# Math-Adventures
+## Installtion Peocess
 ```
 cd Math-Adventures
 ```
