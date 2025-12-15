@@ -50,22 +50,23 @@ Difficulty Levels:
 ## Installtion Peocess:
 ### go through the given steps to install and use the above project: 
 
+ - Enter the project directory
 ```
 cd Math-Adventures
 ```
-cloning the repository:
+ - Cloning the repository:
 ```
 git clone https://github.com/Jha-2022/Math-Adventures.git
 ```
-making a virtual environment for the peoject to download deliverables: 
+ - Making a virtual environment for the peoject to download deliverables: 
 ```
 python -m venv venv
 ```
-activating the python environment - windows
+ - Activating the python environment - windows
 ```
 venv\Scripts\activate
 ```
-activating the python environment - mac, linux
+ - Activating the python environment - mac, linux
 ```
 source venv/bin/activate
 ```
