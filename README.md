@@ -53,16 +53,19 @@ Difficulty Levels:
 ```
 cd Math-Adventures
 ```
+cloning the repository:
 ```
 git clone https://github.com/Jha-2022/Math-Adventures.git
 ```
+making a virtual environment for the peoject to download deliverables: 
 ```
 python -m venv venv
 ```
+activating the python environment - windows
 ```
 venv\Scripts\activate
 ```
-
+activating the python environment - mac, linux
 ```
 source venv/bin/activate
 ```
