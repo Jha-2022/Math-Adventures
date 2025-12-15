@@ -7,7 +7,6 @@ The system dynamically adjusts the difficulty of math puzzles based on the learn
 
 This project demonstrates how **adaptive logic** (rule-based or lightweight ML-inspired logic) can personalize learning experiences in real time.
 
-
 ---
 
 ## 🎯 Objective
@@ -22,6 +21,19 @@ The goal of this project is to build a prototype that:
 
 ---
 
+## 🧠 Adaptive Learning Approach
+This prototype uses a **rule-based adaptive engine**:
+
+- ✅ If the learner answers correctly and quickly → **Increase difficulty**
+- ❌ If the learner answers incorrectly or slowly → **Decrease difficulty**
+- ➖ Otherwise → **Maintain current difficulty**
+
+Difficulty Levels:
+- **Easy** → Simple addition / subtraction
+- **Medium** → Mixed operations with larger numbers
+- **Hard** → Multiplication / division or higher ranges
+
+---
 
 ## Directory Structure
 ```
@@ -70,3 +82,11 @@ python src/main.py
 5. After the session, a performance summary is shown
 
 
+## Here I am attaching the github link to GUI version of the same webapp:-  
+ ``` 
+  https://github.com/Jha-2022/math-adventure-ai.git
+ ```
+## Live working demo for the same GUI version:-
+ ```
+ https://math-adventure-ai.vercel.app/
+ ```
