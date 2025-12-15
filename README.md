@@ -52,7 +52,7 @@ venv\Scripts\activate
 ```
 source venv/bin/activate
 ```
-now run
+###Now the user can access the project writting this command in the terminal:-
 ```
 python src/main.py
 ```
@@ -66,4 +66,5 @@ python src/main.py
    - Time taken to respond  
 4. Adaptive engine decides the next difficulty  
 5. After the session, a performance summary is shown
+
 
