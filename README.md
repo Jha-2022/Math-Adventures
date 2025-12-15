@@ -1,7 +1,6 @@
 # Math-Adventures
 ```
 cd Math-Adventures
-
 ```
 ```
 git clone https://github.com/Jha-2022/Math-Adventures.git
