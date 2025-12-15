@@ -1,5 +1,7 @@
 # Math-Adventures
 ```
-cd math-adaptive-prototype
+https://github.com/Jha-2022/Math-Adventures.git
+
+cd Math-Adventures
 
 ```
