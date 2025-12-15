@@ -1,3 +1,15 @@
+
+```
+📂 Math-Adventures
+  ├─ README.md               
+  ├─ requirements.txt       
+  ├─ src/
+    ├─ main.py               
+    ├─ puzzle_generator.py   
+    ├─ tracker.py            
+    └─ adaptive_engine.py  
+```
+
 # Math-Adventures
 ```
 cd Math-Adventures
