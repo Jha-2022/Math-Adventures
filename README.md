@@ -1,4 +1,5 @@
 # Math-Adventures
 ```
-yo
+cd math-adaptive-prototype
+
 ```
