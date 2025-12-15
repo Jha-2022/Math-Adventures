@@ -17,5 +17,8 @@ venv\Scripts\activate
 ```
 source venv/bin/activate
 
-
+```
+now run
+```
+python src/main.py
 ```
